@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TP2-DAI",
+    "slug": "TP2-DAI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
